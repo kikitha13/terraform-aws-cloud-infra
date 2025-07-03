@@ -1,4 +1,4 @@
-## terraform-aws-vpc-ec2-alb-autoscaling
+## terraform-aws-cloud-infra
 
 This project creates a complete AWS infrastructure using Terraform, including VPC, subnets, Internet/NAT gateways, EC2 instances in private subnets, ALB, Auto Scaling Group, S3 storage, and remote state management with locking.
 
